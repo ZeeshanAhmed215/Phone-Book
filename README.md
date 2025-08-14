@@ -30,4 +30,3 @@ Clone the repository and run Python script: Ph.py
 >  **Note:** The `Book.json` file must be in the same directory as `Ph.py`.  
 If it doesn’t exist, the program will show error that file not found!
 ****
-
