@@ -9,7 +9,7 @@ Contact data is saved in a **JSON file**, so it remains available even after the
 -  **Add new contact** (name & number)
 -  **Search contact** by name
 -  **Display all contacts**
--  **Delete a contact**
+-  **Delete a contact** by name
 -  **Data persistence** using JSON file
 
 ---
