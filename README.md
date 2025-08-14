@@ -26,6 +26,6 @@ Contact data is saved in a **JSON file**, so it remains available even after the
 - Enter number: 1234567890
 
 ## How to Run
-Clone the repository and run any Python script:
+Clone the repository and run Python script: Ph.py
 ****
 
