@@ -27,8 +27,7 @@ Contact data is saved in a **JSON file**, so it remains available even after the
 
 ## How to Run
 Clone the repository and run Python script: Ph.py
-> ⚠️ **Note:** The `contacts.json` file must be in the same directory as `phonebook.py`.  
-If it doesn’t exist, the program will automatically create it the first time you add a contact.
-
+>  **Note:** The `Book.json` file must be in the same directory as `Ph.py`.  
+If it doesn’t exist, the program will show error that file not found!
 ****
 
